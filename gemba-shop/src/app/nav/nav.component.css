@@ -1,0 +1,12 @@
+h1{
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    flex: 1;
+}
+
+header {
+    display: flex;
+}
+

@@ -1,0 +1,9 @@
+footer{
+    font-style: italic;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+}

@@ -1,0 +1,15 @@
+nav{
+    padding: 5px;
+    background-color: bisque;
+    height: 43px;
+    width: 150px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+}
